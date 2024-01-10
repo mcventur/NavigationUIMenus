@@ -8,16 +8,16 @@
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.mpd.pmdm.navigationuimenus.HomeFragment"
-        android:label="fragment_home"
+        android:label="Prueba Menús"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/userFragment"
         android:name="com.mpd.pmdm.navigationuimenus.UserFragment"
-        android:label="fragment_user"
+        android:label="Datos de usuario"
         tools:layout="@layout/fragment_user" />
     <fragment
         android:id="@+id/settingsFragment"
         android:name="com.mpd.pmdm.navigationuimenus.SettingsFragment"
-        android:label="fragment_settings"
+        android:label="Configuraciones"
         tools:layout="@layout/fragment_settings" />
 </navigation>
